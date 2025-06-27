@@ -1083,17 +1083,17 @@ body {
 
   .prev-arrow,
   .next-arrow {
-    font-size: 6rem; /* Smaller for tiny screens */
+    font-size: 8rem; /* Smaller for tiny screens */
     padding: 0.6rem;
   }
 
   .prev-arrow {
-    top: 76rem;
+    top: 80rem;
     left: 0.5rem;
   }
 
   .next-arrow {
-    top: 76rem;
+    top: 80rem;
     right: 0.5rem;
   }
 
