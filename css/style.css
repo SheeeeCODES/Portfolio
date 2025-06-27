@@ -632,6 +632,7 @@ body {
 }
 
 .modal-image {
+  padding-top: 5%;
   max-width: 90vw;
   max-height: 70vh; /* Adjusted to accommodate caption */
   border-radius: 1rem;
@@ -644,7 +645,7 @@ body {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 4rem; /* Increased size for larger arrows */
+  font-size: 9rem; /* Increased size for larger arrows */
   color: #fff;
   cursor: pointer;
   transition: color 0.3s ease, transform 0.3s ease;
@@ -659,20 +660,20 @@ body {
 }
 
 .prev-arrow {
-  left: 2rem; /* Positioned on the left side */
+  left: 25rem; /* Positioned on the left side */
 }
 
 .next-arrow {
-  right: 2rem; /* Positioned on the right side */
+  right: 25rem; /* Positioned on the right side */
 }
 
 /* Caption for modal image */
 .modal-caption {
   display: block;
   text-align: center;
-  font-size: 1.6rem;
+  font-size: 3rem;
   color: #fff;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
   max-width: 90vw;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -682,8 +683,8 @@ body {
 .close-modal {
   position: absolute;
   top: 2rem;
-  right: 2rem;
-  font-size: 3rem;
+  right: 4rem;
+  font-size: 5rem;
   color: #fff;
   cursor: pointer;
   transition: color 0.3s ease;
@@ -1040,6 +1041,7 @@ body {
   }
 
   .modal-caption {
+    text-wrap: wrap;
     font-size: 3.2rem;
     margin-top: 1rem;
   }
@@ -1073,31 +1075,36 @@ body {
   }
 
   .modal-image {
+    padding-left: 8px;
+    padding-right: 8px;
     max-width: 98vw;
     max-height: 60vh; /* Further adjusted for caption and arrows */
   }
 
   .prev-arrow,
   .next-arrow {
-    font-size: 4rem; /* Smaller for tiny screens */
+    font-size: 6rem; /* Smaller for tiny screens */
     padding: 0.6rem;
   }
 
   .prev-arrow {
+    top: 76rem;
     left: 0.5rem;
   }
 
   .next-arrow {
+    top: 76rem;
     right: 0.5rem;
   }
 
   .modal-caption {
-    font-size: 3rem;
-    margin-top: 0.8rem;
+    text-wrap: wrap;
+    font-size: 4rem;
+    margin-top: 1.8rem;
   }
 
   .close-modal {
-    font-size: 4rem;
+    font-size: 5rem;
     top: 1.3rem;
     right: 2.3rem;
   }
