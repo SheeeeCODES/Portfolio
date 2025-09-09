@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 'an IEEE Researcher',
                 'a Data Analyst',
                 'a Deep Learning Enthusiast',
-                'a Frontend Developer',
+                'a Frontend Web Developer',
                 'an UI-UX Designer',
                 'a Gaming Asset Design Freelancer'
             ],
@@ -212,5 +212,6 @@ document.addEventListener('DOMContentLoaded', function() {
    document.body.style.transition = 'opacity 0.3s ease-in-out';
 
 });
+
 
 
