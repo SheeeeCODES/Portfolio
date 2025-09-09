@@ -5,14 +5,14 @@ document.addEventListener('DOMContentLoaded', function() {
     if (multipleTextElement) {
         new Typed('.multiple-text', {
             strings: [
-                'Diploma Gold Medalist',
-                'Computer Science Undergrad',
-                'IEEE Researcher',
-                'Data Analyst',
-                'Deep Learning Enthusiast',
-                'Frontend Developer',
-                'UI-UX Designer',
-                'Gaming Assets Design Freelancer'
+                'a Diploma Gold Medalist',
+                'a Computer Science Undergrad',
+                'an IEEE Researcher',
+                'a Data Analyst',
+                'a Deep Learning Enthusiast',
+                'a Frontend Developer',
+                'an UI-UX Designer',
+                'a Gaming Asset Design Freelancer'
             ],
             typeSpeed: 50,
             backSpeed: 10,
@@ -212,4 +212,5 @@ document.addEventListener('DOMContentLoaded', function() {
    document.body.style.transition = 'opacity 0.3s ease-in-out';
 
 });
+
 
