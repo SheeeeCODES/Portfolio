@@ -5,8 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (multipleTextElement) {
         new Typed('.multiple-text', {
             strings: [
-                'Diploma Holder',
-                'College Gold Medalist',
+                'Diploma Gold Medalist',
                 'Computer Science Undergrad',
                 'IEEE Researcher',
                 'Data Analyst',
@@ -213,3 +212,4 @@ document.addEventListener('DOMContentLoaded', function() {
    document.body.style.transition = 'opacity 0.3s ease-in-out';
 
 });
+
