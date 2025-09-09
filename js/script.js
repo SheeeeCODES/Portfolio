@@ -6,12 +6,14 @@ document.addEventListener('DOMContentLoaded', function() {
         new Typed('.multiple-text', {
             strings: [
                 'Diploma Holder',
+                'College Gold Medalist',
                 'Computer Science Undergrad',
-                'Researcher',
+                'IEEE Researcher',
+                'Data Analyst',
                 'Deep Learning Enthusiast',
                 'Frontend Developer',
                 'UI-UX Designer',
-                'Model Designer'
+                'Gaming Assets Design Freelancer'
             ],
             typeSpeed: 50,
             backSpeed: 10,
@@ -209,4 +211,5 @@ document.addEventListener('DOMContentLoaded', function() {
    // Add CSS for initial body opacity
    document.body.style.opacity = '0';
    document.body.style.transition = 'opacity 0.3s ease-in-out';
+
 });
