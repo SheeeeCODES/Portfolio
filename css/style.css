@@ -81,9 +81,10 @@ body {
   align-items: center;
   gap: 8rem;
   background: var(--bg-color);
-  min-height: 100vh;
+  /* min-height: 100vh; */
   padding: 0 9%;
-  padding-top: 12rem;
+  padding-top: 19rem;
+  padding-bottom: 14rem;
 }
 
 .home-content {
@@ -1169,3 +1170,4 @@ body {
 section {
   padding-top: 12rem;
 }
+
