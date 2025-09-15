@@ -83,8 +83,8 @@ body {
   background: var(--bg-color);
   /* min-height: 100vh; */
   padding: 0 9%;
-  padding-top: 16rem;
-  padding-bottom: 17rem;
+  padding-top: 13rem;
+  padding-bottom: 15rem;
 }
 
 .home-content {
@@ -1170,6 +1170,7 @@ body {
 section {
   padding-top: 12rem;
 }
+
 
 
 
