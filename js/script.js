@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
             strings: [
                 'a Diploma Gold Medalist',
                 'a Computer Science Undergrad',
-                'an IEEE Researcher',
-                'a Data Analyst',
+                'an IEEE Paper Author',
+                'a SAP Certified Data Analyst',
                 'a Deep Learning Enthusiast',
                 'a Frontend Web Developer',
                 'an UI-UX Designer',
@@ -212,6 +212,7 @@ document.addEventListener('DOMContentLoaded', function() {
    document.body.style.transition = 'opacity 0.3s ease-in-out';
 
 });
+
 
 
 
